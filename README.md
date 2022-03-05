@@ -1,7 +1,7 @@
 # Project-sem-3
 project with 
-..*Python
-..*HTML
-..*CSS
-..*Angular
-..*javascript
+..* Python
+..* HTML
+..* CSS
+..* Angular
+..* javascript
