@@ -1,2 +1,7 @@
 # Project-sem-3
-project with python 
+project with 
+  * Python
+  * HTML
+  * CSS
+  * Angular
+  * javascript
