@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(29, 168, 214);
+    background-image: url(gead\ 1.jfif)  ;
+    background-repeat: round;
   }
   
   h1 {
@@ -9,3 +10,13 @@ body {
   ol{
       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   }
+  ul{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  li{
+     font-family: cursive ;
+     color: yellowgreen;
+  }
+nav{
+  border: 12px solid black;
+}
