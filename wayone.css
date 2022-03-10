@@ -17,6 +17,19 @@ body {
      font-family: cursive ;
      color: yellowgreen;
   }
-nav{
-  border: 12px solid black;
+
+a{
+ 
+    background-color: #199319;
+    color: rgb(255, 255, 255);
+    padding: 15px 25px;
+    text-decoration:solid;
+    border-radius: 25px;
+    text-transform: capitalize;
+  
+  
+}
+table {
+  width: 100%;
+  border: 1px solid;
 }
