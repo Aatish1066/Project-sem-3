@@ -1,6 +1,8 @@
 body {
-    background-image: url(gead\ 1.jfif)  ;
-    background-repeat: round;
+    background-image: url(back.jpg)  ;
+    background-repeat: repeat;
+    background-size:cover; 
+    background-attachment: fixed;
   }
   
   h1 {
@@ -17,7 +19,9 @@ body {
      font-family: cursive ;
      color: yellowgreen;
   }
-
+p{
+  color: rgb(255, 255, 255) ;
+}
 a{
  
     background-color: #199319;
@@ -32,4 +36,8 @@ a{
 table {
   width: 100%;
   border: 1px solid;
+  align-items: center;
+}
+th,td{
+  color: rgb(255, 255, 255);
 }
